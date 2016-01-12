@@ -1,4 +1,5 @@
-#!/bin/python
+#!/usr/bin/python2
+# pefile only for python2
 
 import pefile, os, re, binascii, json
 
